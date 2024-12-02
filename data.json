@@ -1,0 +1,140 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Apple",
+        "price": 134,
+        "category": "Fruits",
+        "thumbnail": "https://thumbs.dreamstime.com/b/red-apple-leaf-slice-white-background-29914331.jpg",
+        "description": "Fresh red apple - 4 pcs."
+      },
+      {
+        "id": 2,
+        "title": "Banana",
+        "price": 90,
+        "category": "Fruits",
+        "thumbnail": "https://thumbs.dreamstime.com/b/bunch-bananas-6175887.jpg",
+        "description": "Ripe yellow banana - 12 pcs."
+      },
+      {
+        "id": 3,
+        "title": "Carrot",
+        "price": 78,
+        "category": "Vegetables",
+        "thumbnail": "https://gourmetgarden.in/cdn/shop/products/Carrot_1280x.jpg?v=1704281309",
+        "description": "Crunchy orange carrot - 1kg."
+      },
+      {
+        "id": 4,
+        "title": "Milk",
+        "price": 27,
+        "category": "Dairy",
+        "thumbnail": "https://image1.jdomni.in/product/09082021/B6/40/95/69E61DFEBC8F07440F282561BF_1628449240817.jpg",
+        "description": "Fresh dairy milk. - 500ml"
+      },
+      {
+        "id": 5,
+        "title": "Chicken Breast",
+        "price": 299,
+        "category": "Meat",
+        "thumbnail": "https://www.greenchickchop.in/cdn/shop/files/ChickenBreastBoneless.webp?v=1682572347",
+        "description": "Fresh boneless chicken breast - 1kg"
+      },
+      {
+        "id": 6,
+        "title": "Fish",
+        "price": 399,
+        "category": "Seafood",
+        "thumbnail": "https://allfreshseafood.com/cdn/shop/collections/Untitled_design_85.png?v=1643345674",
+        "description": "Premium quality Fish - 1kg"
+      },
+      {
+        "id": 7,
+        "title": "Whole Wheat Bread",
+        "price": 40,
+        "category": "Bakery",
+        "thumbnail": "https://media.npr.org/assets/img/2013/01/11/white-bread-22f499a12d0053112a857332b3d0681628c3d56b.jpg",
+        "description": "Healthy whole wheat bread - 300g"
+      },
+      {
+        "id": 8,
+        "title": "Cheddar Cheese",
+        "price": 195,
+        "category": "Dairy",
+        "thumbnail": "https://img2.10bestmedia.com/Images/Photos/385140/GettyImages-531048911_55_660x440.jpg",
+        "description": "Aged cheddar cheese - 200g"
+      },
+      {
+        "id": 9,
+        "title": "Potato",
+        "price": 50,
+        "category": "Vegetables",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWyB3EqqlINSeDYorx32CsnqRyT15cmRgYfQ&s",
+        "description": "Potato - 1kg"
+      },
+      {
+        "id": 10,
+        "title": "Orange Juice",
+        "price": 25,
+        "category": "Drinks",
+        "thumbnail": "https://www.bigbasket.com/media/uploads/p/xxl/265722_12-minute-maid-fruit-drink-pulpy-orange.jpg",
+        "description": "100% pure orange juice - 250ml"
+      },
+      {
+        "id": 11,
+        "title": "Dark Chocolate",
+        "price": 100,
+        "category": "Snacks",
+        "thumbnail": "https://m.media-amazon.com/images/I/81EAqP0D0+L.jpg",
+        "description": "Rich dark chocolate - 150g"
+      },
+      {
+        "id": 12,
+        "title": "Potato Chips",
+        "price": 100,
+        "category": "Snacks",
+        "thumbnail": "https://india.neelamfoodland.in/cdn/shop/products/IMG_3513_1200x.jpg?v=1698402076",
+        "description": "Crispy salted potato chips - 500g"
+      },
+      {
+        "id": 13,
+        "title": "Coca Cola",
+        "price": 50,
+        "category": "Drinks",
+        "thumbnail": "https://fruitsuite.ca/cdn/shop/files/shutterstock_193222430-2_01f2dedd-e84e-4681-8e6b-1add31871a78.webp?v=1717432789&width=480",
+        "description": "Rich and strong coke - 450ml"
+      },
+      {
+        "id": 14,
+        "title": "Olive Oil",
+        "price": 275,
+        "category": "Pantry",
+        "thumbnail": "https://img.bebeautiful.in/www-bebeautiful-in/content/THE%20SECRET%20TO%20SMOOTH%2C%20SILKY%20HAIR_%20OLIVE%20OIL.png",
+        "description": "Extra virgin olive oil - 1L"
+      },
+      {
+        "id": 15,
+        "title": "Brown Rice",
+        "price": 891,
+        "category": "Grains",
+        "thumbnail": "https://5.imimg.com/data5/JY/KE/MY-21710703/organic-brown-rice-500x500.jpg",
+        "description": "Healthy brown rice - 10kg"
+      },
+      {
+        "id": 16,
+        "title": "White Rice",
+        "price": 1288,
+        "category": "Grains",
+        "thumbnail": "https://dukaan.b-cdn.net/700x700/webp/media/f9da2a63-d287-49e5-b7f4-61ffa4966e81.jpg",
+        "description": "Healthy brown rice - 20kg"
+      },
+      {
+        "id": 17,
+        "title": "Basmathi Rice",
+        "price": 379,
+        "category": "Grains",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdGq7pt73_bcls2KaeZo9FqeJ_rRtBQBHn_Q&s",
+        "description": "Healthy brown rice - 5kg"
+      }
+    ]
+  }
